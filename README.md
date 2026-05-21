@@ -22,7 +22,7 @@ Luego visita: http://localhost:8080
 
 ## Diseño
 
-[Figma — Util Challenge Product Design](https://www.figma.com/design/6z5wKBjwWy6v8sK7ZYasEY/Util-Challenge-Product_Design?node-id=0-1&view=variables)
+[Figma — Design System](https://www.figma.com/design/6z5wKBjwWy6v8sK7ZYasEY/Util-Challenge-Product_Design?node-id=0-1&view=variables)
 
 ## Archivos
 
