@@ -28,8 +28,7 @@ Luego visita: http://localhost:8080
 
 | Archivo | Descripción |
 |---------|-------------|
-| `index.html` | Entrada principal (misma maqueta que `worknest-banner.html`) |
-| `worknest-banner.html` | Maqueta completa |
+| `index.html` | Maqueta completa del banner |
 | `QR.svg`, `complete.svg`, `cancel.svg` | Iconos de referencia exportados de Figma |
 
 ## GitHub Pages
