@@ -34,6 +34,5 @@ Luego visita: http://localhost:8080
 
 ## GitHub Pages
 
-En el repositorio: **Settings → Pages → Source: Deploy from branch `main` / root**.
-
-La URL será: `https://<tu-usuario>.github.io/<nombre-repo>/`
+- **Demo en vivo:** [https://giovannimenguiano.github.io/worknest-banner/](https://giovannimenguiano.github.io/worknest-banner/)
+- **Repositorio:** [https://github.com/GiovanniMenguiano/worknest-banner](https://github.com/GiovanniMenguiano/worknest-banner)
